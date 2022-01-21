@@ -1,0 +1,51 @@
+body{
+    font-family: Oswald, Verdana, Arial, "Sans-Serif";
+}
+
+#container{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1{
+    background-color:#D6A800 ;
+    border: 1px;
+    border-color:#D6A800 ;
+    padding: 10px;
+}
+
+h2{
+    background-color: blanchedalmond ;
+    border: 1px;
+    border-color:#D6A800 ;
+    padding: 10px;
+}
+
+h3{
+    background-color: blanchedalmond;
+    border: 1px;
+    border-color:#D6A800 ;
+    padding: 10px;
+}
+
+h4{
+    background-color: blanchedalmond;
+    border: 1px;
+    border-color:#D6A800 ;
+    padding: 10px;
+}
+
+a{
+    color:#D6A800;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: #D6A800;
+}
+
+a:visited{
+    color:#D6A800;
+}
